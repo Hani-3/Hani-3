@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hani-3&label=Profile%20views&color=0e75b6&style=flat" alt="hani-3" /> </p>
 
-- 🌱 I’m currently learning **Data Science Course from PWskills**
+- 🌱 I’m currently learning **Data Science from PWskills**
 
 - 📫 How to reach me **hanypatel1603@gmail.com**
 
