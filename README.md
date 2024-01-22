@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hani-3&label=Profile%20views&color=0e75b6&style=flat" alt="hani-3" /> </p>
 
-<p align="left"> <a href="https://twitter.com/hanipatel1603" target="blank"><img src="https://img.shields.io/twitter/follow/hanipatel1603?logo=twitter&style=for-the-badge" alt="hanipatel1603" /></a> </p>
-
 - 🌱 I’m currently learning **Data Science Course from PWskills**
 
 - 📫 How to reach me **hanypatel1603@gmail.com**
@@ -15,7 +13,7 @@
 <p align="left">
 <a href="https://twitter.com/hanipatel1603" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hanipatel1603" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hani-patel-50627a225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hani-patel-50627a225" height="30" width="40" /></a>
-<a href="https://discord.gg/hany1603#6106" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hany1603#6106" height="30" width="40" /></a>
+<a href="https://discord.gg/hany1603" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hany1603" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
