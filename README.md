@@ -9,6 +9,12 @@
 
 - 📫 How to reach me **hanypatel1603@gmail.com**
 
+## Academic Achievements 🏆
+
+- M.Sc in Physics
+- Qualified GATE(PH) in 2022
+- Director General Award Winner @ganpatuniversity
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hanipatel1603" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hanipatel1603" height="30" width="40" /></a>
