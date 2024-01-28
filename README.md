@@ -9,7 +9,8 @@
 
 - 📫 How to reach me **hanypatel1603@gmail.com**
 
-## Academic Achievements 🏆
+## 
+<h3 align="left">Academic Achievements 🏆</h3>
 
 - M.Sc in Physics
 - Qualified GATE(PH) in 2022
