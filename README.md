@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hani Patel</h1>
-<h3 align="center">A passionate Physics and Data Science Student from India</h3>
+<h3 align="center">A passionate Physics and Data Science Enthusiast from India</h3>
 
 <img align="right" alt="coding" width="350" height="260" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*NCGC9pN10cTacXQpBq7PvA.gif">
 
