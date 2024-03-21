@@ -3,8 +3,6 @@
 
 <img align="right" alt="coding" width="350" height="260" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*NCGC9pN10cTacXQpBq7PvA.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hani-3&label=Profile%20views&color=0e75b6&style=flat" alt="hani-3" /> </p>
-
 - 🌱 I’m currently learning **Data Science from PWskills**
 
 - 📫 How to reach me **hanypatel1603@gmail.com**
